@@ -12,6 +12,7 @@ public class TypeChangeTest {
         int i1 = 10;
         int i2 = 500;
 
+
         b = (byte)i1;
         System.out.println(b);
 
